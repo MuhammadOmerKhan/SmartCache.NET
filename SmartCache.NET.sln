@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartCache.NET", "SmartCache.NET\SmartCache.NET.csproj", "{389AFFF0-3103-4C05-8C06-8862A1A89A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389AFFF0-3103-4C05-8C06-8862A1A89A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389AFFF0-3103-4C05-8C06-8862A1A89A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389AFFF0-3103-4C05-8C06-8862A1A89A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389AFFF0-3103-4C05-8C06-8862A1A89A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BB9585-A1E4-43D3-A0AC-FEC09B473421}
+	EndGlobalSection
+EndGlobal
